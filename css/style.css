@@ -63,24 +63,24 @@ a:visited {
     height: 23px;
 }
 
-#banniere {
+#bluepart {
     background-color: #0093C8;
     display: block;
     padding-bottom: 20px;
 }
 
-#banniere h1 {
+#bluepart h1 {
     color: rgb(255, 255, 255);
     margin-left: 700px;
 }
 
-#banniere img:first-child {
+#bluepart img:first-child {
     float: left;
     margin-top: 20px;
     margin-left: 200px;
 }
 
-#banniere img:nth-child(2) {
+#bluepart img:nth-child(2) {
     margin-left: 220px;
     margin-top: 20px;
     margin-bottom: 10px;
@@ -91,7 +91,7 @@ span.clear {
     display: block;
 }
 
-#banniere button {
+#bluepart button {
     margin-left: 775px;
     margin-top: 30px;
 }
@@ -103,39 +103,39 @@ span.clear {
     padding-bottom: 30px;
 }
 
-#fourQualities {
+#Qualities {
     background-color: #0093C8;
     text-align: justify;
     color: white;
 }
 
-#fourONETWO {
+#ONETWO {
     display: flex;
 }
 
-#fourTHREEFOUR {
+#THREEFOUR {
     display: flex;
     padding-bottom: 80px;
 }
 
-#un {
+#One {
     margin-left: 200px;
     margin-right: 30px;
     width: 1260px;
 }
 
-#deux {
+#Two {
     margin-right: 200px;
     width: 1260px;
 }
 
-#trois {
+#Three {
     margin-left: 200px;
     margin-right: 30px;
     width: 1260px;
 }
 
-#quatre {
+#Four {
     margin-right: 200px;
     width: 1260px;
 }
